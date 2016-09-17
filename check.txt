@@ -1,0 +1,18 @@
+total 72
+-rwxrw-r-- 1 ektaa ektaa  208 Apr  2 19:30 answer.py
+-rwxrwxr-x 1 ektaa ektaa 9217 Apr  3 13:51 a.out
+-rw-rw-r-- 1 ektaa ektaa    0 Apr  3 14:09 check.txt
+-rw------- 1 ektaa ektaa  469 Apr  2 19:03 data.csv
+-rwxrw-r-- 1 ektaa ektaa  351 Apr  2 18:40 fileIO.py
+-rwxrw-r-- 1 ektaa ektaa  440 Apr  2 15:42 for.py
+-rwxrw-r-- 1 ektaa ektaa  458 Apr  2 17:42 functions.py
+-rwxrw-r-- 1 ektaa ektaa   40 Apr  1 17:38 hello.py
+-rwxrw-r-- 1 ektaa ektaa  155 Apr  1 17:42 ifelse.py
+-rwxrw-r-- 1 ektaa ektaa  634 Apr  2 16:26 list.py
+-rw-rw-r-- 1 ektaa ektaa  182 Apr  3 13:51 out_err.cpp
+-rw-rw-r-- 1 ektaa ektaa 2912 Apr  3 13:51 out_err.o
+-rw-rw-r-- 1 ektaa ektaa   31 Apr  2 18:40 temp.txt
+-rwxrw-r-- 1 ektaa ektaa   78 Apr  2 15:35 test.py
+-rwxrw-r-- 1 ektaa ektaa  282 Apr  2 16:59 time.py
+-rwxrw-r-- 1 ektaa ektaa   85 Apr  1 17:58 while_else.py
+-rwxrw-r-- 1 ektaa ektaa   62 Apr  1 17:45 while.py
